@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 94 82" width="94" height="82">
+  <defs/>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_104">
+        <g id="Graphic_2">
+          <text transform="translate(29343756e-14 -7)" fill="#00b4b9">
+            <tspan font-family="Fira Code" font-weight="bold" font-size="75" fill="#00b4b9" x="6998846e-19" y="87" xml:space="preserve">S</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3">
+          <text transform="translate(46.153846 -7)" fill="#f4c100">
+            <tspan font-family="Fira Code" font-weight="bold" font-size="27" fill="#f4c100" x="0" y="32" xml:space="preserve">(B)</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
